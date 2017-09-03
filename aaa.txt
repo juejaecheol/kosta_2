@@ -5,4 +5,8 @@ aaaaaakosta
 
 zzzzsdfasdfasdf
 
+<<<<<<< HEAD
 branch
+=======
+header Ãß°¡
+>>>>>>> ì‹¤í—˜
